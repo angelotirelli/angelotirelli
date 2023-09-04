@@ -36,8 +36,6 @@ Atualmente sou **analista de sistemas sênior na Praxio by nstech**, e estou sem
 
 <img src="https://taiwebs.com/upload/icons/delphi-11-alexandria220-220.png" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" /> <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3236928/oracle-icon-md.png" width="40" height="40"/> 
 
-</br>
- 
 ### Tecnologias e Ferramentas
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/> <img src="https://d2ohlsp9gwqc7h.cloudfront.net/images/logos/logo-page/rad-studio-logo-1024.png" width="40" height="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40"/> <img src="https://www.oracle.com/a/ocom/img/pl-sql.svg" width="40" height="40"/> 
