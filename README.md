@@ -46,6 +46,7 @@ Atualmente sou **analista de sistemas sênior na Praxio by nstech**, e estou sem
 ![Static Badge](https://img.shields.io/badge/Flexibilidade%20e%20adaptabilidade-gray)
 ![Static Badge](https://img.shields.io/badge/Trabalho%20em%20equipe-brown)
 ![Static Badge](https://img.shields.io/badge/Atitude%20positiva-yellow)
+![Static Badge](https://img.shields.io/badge/Lidar%20com%20press%C3%A3o-cyan)
 
 ### Tecnologias e Ferramentas
 
