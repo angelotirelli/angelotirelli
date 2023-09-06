@@ -8,7 +8,9 @@ Brasileiro, casado, sou de São Paulo, capital, onde resido atualmente.
 
 Iniciei minha carreira na área de tecnologia em 1999. De lá pra cá, já trabalhei com governança em TI, consultoria e implantação de sistemas. Me especializei em desenvolvimento de sistemas, onde pude liderar equipes de programação, ser coach técnico responsável pela implementação da LGPD em um ERP, ensinar uma equipe de treinees a programar, realizar e concluir diversos projetos como desenvolvimento de aplicativos desktop, WS e API´s.
 
-Atualmente sou **analista de sistemas sênior na Praxio by nstech**. O que me motiva é estar sempre em busca de novos desafios.
+Atualmente sou **analista de sistemas sênior na Praxio by nstech**.
+
+Minha motivação é estar sempre em busca de novos desafios.
 
 ### Contatos:
 
