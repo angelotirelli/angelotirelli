@@ -8,7 +8,7 @@ Sou de São Paulo, capital onde resido atualmente.
 
 +12 anos de experiência com desenvolvimento de sistemas.
 
-Iniciei minha carreira na área de tecnologia em 1999, de lá até os dias atuais, já trabalhei com governança em TI, consultoria e implantação de sistemas, **mas acabei me especializando em desenvolvimento de sistemas**, onde pude liderar equipes de desenvolvimento, pude ser coach técnico responsável pela implementação da LGPD em um ERP, pude ensinar pessoas a programar em um programa de treinees, e pude concluir e realizar diversos projetos, como desenvolvimento de aplicativos desktop, WS e API´s.
+Iniciei minha carreira na área de tecnologia em 1999, de lá até os dias atuais, já trabalhei com governança em TI, consultoria e implantação de sistemas, mas me especializei em desenvolvimento de sistemas, onde pude liderar equipes de desenvolvimento, pude ser coach técnico responsável pela implementação da LGPD em um ERP, pude ensinar pessoas a programar em um programa de treinees, e pude concluir e realizar diversos projetos, como desenvolvimento de aplicativos desktop, WS e API´s.
 
 Atualmente sou **analista de sistemas sênior na Praxio by nstech**, e estou sempre empenhado em aprender.
 
