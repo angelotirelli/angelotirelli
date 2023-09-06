@@ -34,7 +34,18 @@ Atualmente sou **analista de sistemas sênior na Praxio by nstech**, e estou sem
 
 ### Minhas Skills
 
+#### Hard skills
+
 <img src="https://taiwebs.com/upload/icons/delphi-11-alexandria220-220.png" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" /> <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3236928/oracle-icon-md.png" width="40" height="40"/> 
+
+#### Soft skills
+
+![Static Badge](https://img.shields.io/badge/Comunica%C3%A7%C3%A3o-blue)
+![Static Badge](https://img.shields.io/badge/Gest%C3%A3o%20do%20tempo-red)
+![Static Badge](https://img.shields.io/badge/Solu%C3%A7%C3%A3o%20de%20problemas-green)
+![Static Badge](https://img.shields.io/badge/Flexibilidade%20e%20adaptabilidade-gray)
+![Static Badge](https://img.shields.io/badge/Trabalho%20em%20equipe-brown)
+![Static Badge](https://img.shields.io/badge/Atitude%20positiva-yellow)
 
 ### Tecnologias e Ferramentas
 
