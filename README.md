@@ -62,8 +62,6 @@ Atualmente sou **analista de sistemas sênior na Praxio by nstech**, e estou sem
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=angelotirelli&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=angelo.junior@bgmrodotec.com.br&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=angelotirelli&theme=tokyonight-duo&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 
