@@ -2,7 +2,7 @@
 ### Sobre mim:
 
 
-Brasileiro, casado, sou de São Paulo, capital, onde resido atualmente.
+Brasileiro, casado, natural São Paulo, capital, onde resido atualmente.
 
 +12 anos de experiência com desenvolvimento de sistemas.
 
