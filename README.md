@@ -36,10 +36,7 @@ Minha motivação é estar sempre em busca de novos desafios.
 
 #### Hard skills
 
-<img src="https://taiwebs.com/upload/icons/delphi-11-alexandria220-220.png" width="40" height="40" /> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg" width="40" height="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" /> 
-<img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3236928/oracle-icon-md.png" width="40" height="40"/> 
+<img src="https://taiwebs.com/upload/icons/delphi-11-alexandria220-220.png" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" /> <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3236928/oracle-icon-md.png" width="40" height="40"/> 
 
 #### Soft skills
 
