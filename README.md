@@ -34,7 +34,7 @@ Minha motivação é estar sempre em busca de novos desafios.
 
 #### Hard skills
 
-<img src="https://taiwebs.com/upload/icons/delphi-11-alexandria220-220.png" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" /> <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3236928/oracle-icon-md.png" width="40" height="40"/> 
+<img src="https://taiwebs.com/upload/icons/delphi-11-alexandria220-220.png" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" /> <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3236928/oracle-icon-md.png" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" height="40"/>
 
 #### Soft skills
 
@@ -52,7 +52,7 @@ Minha motivação é estar sempre em busca de novos desafios.
 
 ### Próximas Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
 
