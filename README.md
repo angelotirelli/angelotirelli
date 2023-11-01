@@ -64,4 +64,4 @@ Minha motivação é estar sempre em busca de novos desafios.
 
 ### Projetos
 
-<a href="https://js-developer-pokedex-d50aq6cll-angelotirelli.vercel.app/" target="_blank">Pokedex</a>
+<a href="https://js-developer-pokedex-d50aq6cll-angelotirelli.vercel.app/" target="_blank">Pokedex - projeto em JS, HTML e CSS</a>
