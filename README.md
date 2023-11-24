@@ -65,9 +65,12 @@ Minha motivação é estar sempre em busca de novos desafios.
 ### Projetos
 
 Pokedex:
+<br>
 <a href="https://js-developer-pokedex-d50aq6cll-angelotirelli.vercel.app/" target="_blank">Projeto em JS, HTML e CSS</a>
 <br>
+<br>
 Cadastro de clientes: 
+<br>
 <a href="https://angular-cadastro-cliente.vercel.app" target="_blank">Front-end em Angular, com interação com API de CEP e back-end em C#</a>
 <br>
 <a href="https://github.com/angelotirelli/angular-cadastro-cliente" target="_blanck">Acesso aos fontes</a>
