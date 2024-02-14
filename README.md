@@ -6,7 +6,7 @@ Brasileiro, casado, natural São Paulo, capital, onde resido atualmente.
 
 +12 anos de experiência com desenvolvimento de sistemas.
 
-Atualmente sou **analista de sistemas sênior na Praxio by nstech**.
+Atualmente sou **analista de sistemas sênior na Dexian**.
 
 Minha motivação é estar sempre em busca de novos desafios.
 
